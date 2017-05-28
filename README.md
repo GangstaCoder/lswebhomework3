@@ -13,9 +13,9 @@
 
 My name is:
 
-I like to:
+I like to: Elbonzorino
 
-I'm learning:
+I'm learning: to bang rocks together like the other monkeys
 
 ```
 
